@@ -1,4 +1,4 @@
-- 🌎 Welcome to Malaki.Labs 🌍
+- 🌎 Welcome to the Malaki Mind 🌍
 - 👽 Currently a team of one 👽
 - 🎶 My name is Max 🎶 
 - 💻 I am learning Javascript, Python, looking to learn more 💻
