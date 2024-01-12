@@ -1,7 +1,7 @@
 - 🌎 Welcome to Malaki.Labs 🌍
 - 👽 Currently a team of one 👽
 - 🎶 My name is Max 🎶 
-- 💻 Javascript, Python, looking to learn more 💻
+- 💻 I am learning Javascript, Python, looking to learn more 💻
 - 🎸Music is my first language: bass, guitar, vocals, production, composition, songwriting 🎸
 - 🙏Thank you for watching the development 🙏
 
