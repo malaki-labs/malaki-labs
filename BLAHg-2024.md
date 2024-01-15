@@ -22,6 +22,8 @@ Having gotten accustomed to the IDE with the MITx course, I'll be using Spyder.
 
 Let's see how it goes...
 
+---
+
 :::: JAN 12th, 2024 ::::
 
 Working and going to school leads to this unusual constraint of time. 
